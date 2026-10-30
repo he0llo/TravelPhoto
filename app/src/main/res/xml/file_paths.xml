@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Files exported into the shared TravelPhoto/Download folder, plus the app fallback. -->
+    <external-path name="travelphoto_external" path="TravelPhoto/" />
+    <external-files-path name="travelphoto_app" path="TravelPhoto/" />
+    <cache-path name="travelphoto_cache" path="." />
+</paths>
